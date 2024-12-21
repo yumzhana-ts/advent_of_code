@@ -42,3 +42,12 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+        elif file[line][0][position] == '>':
+            if file[line][0][position+1] == ".":
+                matrix = replace_step(file, line, position, "X")
+                matrix = replace_step(file, line, position+1, ">")
+                position+=1
+                if matrix[line][0][position] != ".":
+                    wall = True
