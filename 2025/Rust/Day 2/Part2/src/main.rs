@@ -35,7 +35,6 @@ fn funny_slicing(item: Vec<char>) -> bool
                 break;
             }
         }
-
         if duplicates 
 		{
             //println!("All slices are equal!");

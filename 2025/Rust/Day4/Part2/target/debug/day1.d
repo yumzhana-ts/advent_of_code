@@ -1,0 +1,1 @@
+/Users/yumzhana/Desktop/42Prague/advent_of_code/2025/Rust/Day4/Part2/target/debug/day1: /Users/yumzhana/Desktop/42Prague/advent_of_code/2025/Rust/Day4/Part2/src/helpers.rs /Users/yumzhana/Desktop/42Prague/advent_of_code/2025/Rust/Day4/Part2/src/main.rs
