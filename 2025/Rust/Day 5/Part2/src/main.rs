@@ -1,7 +1,7 @@
 mod helpers;
 
 fn main() -> std::io::Result<()> {
-    let mut ranges = helpers::read_range("src/input.txt")?;
+    let mut ranges = helpers::read_range("src/mini_input.txt")?;
     ranges.sort_by_key(|r| r.0);
     //println!("Before: {:?}", ranges);
 	let mut sum = 0;
